@@ -62,5 +62,5 @@ Ideas and improvements are welcome: more subjects, new menu options, better exam
 
 ## 👤 Author
 
-Created by **Mohamed Akrem**.
+Created by **Mohamed Akrem dhahri**.
 Contact: [Instagram](https://instagram.com/mohamedakrem911)
